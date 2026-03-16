@@ -1,5 +1,5 @@
 #include "test_string.h"
-// обычные буквы хуюбки
+// обычные буквы
 
 START_TEST(sprintf_1_U) {
   char str1[200];
